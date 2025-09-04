@@ -119,13 +119,13 @@ export const ContactSection = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/mayank-sharma',
+      href: 'https://www.linkedin.com/in/mayankiitj',
       className: 'hover:text-blue-400'
     },
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/mayank-sharma',
+      href: 'https://github.com/Mayank-iitj',
       className: 'hover:text-purple-400'
     }
   ];

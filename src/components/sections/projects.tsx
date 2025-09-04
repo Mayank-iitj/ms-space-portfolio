@@ -7,55 +7,55 @@ const projectData = [
     title: "GSCC",
     description: "Game System Compatibility Checker - Checks PC hardware against game requirements to confirm compatibility before purchase.",
     tags: ["Hardware Analysis", "Gaming", "Compatibility"],
-    link: "https://b24bs1555.wixsite.com/msai/gscc"
+    link: "https://iridescent-rolypoly-782dae.netlify.app/"
   },
   {
     title: "Tracker Site", 
     description: "Workforce tracker for attendance, payroll, PF contributions, and performance metrics with real-time updates.",
     tags: ["HR Management", "Analytics", "Real-time"],
-    link: "https://b24bs1555.wixsite.com/msai/tracker-site"
+    link: "https://wmsms.vercel.app/"
   },
   {
     title: "Moody News",
     description: "Curated news feed tailored to the user's current mood for a personalized reading experience.",
     tags: ["AI/ML", "Personalization", "News"],
-    link: "https://b24bs1555.wixsite.com/msai/moody-news"
+    link: "https://moody-news.vercel.app/"
   },
   {
     title: "NEL",
     description: "Named Entity Linking - Identifies and links entities in text to reference entries for better search and analysis.",
     tags: ["NLP", "Text Analysis", "Entity Recognition"],
-    link: "https://b24bs1555.wixsite.com/msai/nel"
+    link: "https://nel-by-ms.netlify.app/"
   },
   {
     title: "QuantumShield Firewall",
     description: "Network firewall interface demonstrating advanced threat detection and real-time monitoring.",
     tags: ["Cybersecurity", "Network", "Monitoring"],
-    link: "https://b24bs1555.wixsite.com/msai/quantumshield-firewall"
+    link: "https://fire-wall.netlify.app/"
   },
   {
     title: "All RounderAPI",
     description: "Surreal API Key Generator - Generates secure, unique API keys to simplify app integration and development.",
     tags: ["API", "Security", "Development"],
-    link: "https://b24bs1555.wixsite.com/msai/all-rounderapi"
+    link: "https://allrounder-api.netlify.app/"
   },
   {
     title: "Traffic Management Wizard",
     description: "Traffic management demo that monitors and controls urban flow with real-time data for safety and efficiency.",
     tags: ["IoT", "Smart City", "Real-time"],
-    link: "https://b24bs1555.wixsite.com/msai/traffic-management-wizard"
+    link: "https://gregarious-buttercream-270467.netlify.app/"
   },
   {
     title: "Text Analyzer Pro",
     description: "Writing assistant that scores readability, grammar, and style to help craft clearer content.",
     tags: ["NLP", "Writing Assistant", "Analysis"],
-    link: "https://b24bs1555.wixsite.com/msai/text-analyzer-pro"
+    link: "https://analyzetex.netlify.app/"
   },
   {
     title: "CardioDetect",
     description: "Early-detection concept analyzing heartbeat patterns with algorithms to flag potential health issues.",
     tags: ["Healthcare", "AI/ML", "Detection"],
-    link: "https://b24bs1555.wixsite.com/msai/cardiodetect"
+    link: "https://dlqmwdpj.manus.space/"
   },
   {
     title: "Face Mask Detection",
@@ -73,79 +73,79 @@ const projectData = [
     title: "Music Genre Classification",
     description: "AI-powered music genre classifier using audio features and machine learning algorithms.",
     tags: ["AI/ML", "Audio Processing", "Classification"],
-    link: "https://b24bs1555.wixsite.com/msai/music-genre-classification"
+    link: "https://genre-classifyer.netlify.app/"
   },
   {
     title: "E-Commerce Recommendation",
     description: "Product recommendation system using collaborative filtering and content-based algorithms.",
     tags: ["Recommendation", "E-commerce", "ML"],
-    link: "https://b24bs1555.wixsite.com/msai/ecommerce-recommendation"
+    link: "https://ss-analysis-ms.netlify.app/"
   },
   {
     title: "Sentiment Analysis",
     description: "Social media sentiment analysis tool with real-time processing and visualization capabilities.",
     tags: ["NLP", "Sentiment", "Social Media"],
-    link: "https://b24bs1555.wixsite.com/msai/sentiment-analysis"
+    link: "https://msfacify.netlify.app/"
   },
   {
     title: "Spam Mail Analyzer",
     description: "Advanced spam detection system using machine learning to filter and analyze email content.",
     tags: ["ML", "Email Security", "Classification"],
-    link: "https://b24bs1555.wixsite.com/msai/spam-mail-analyzer"
+    link: "https://app--cosmic-guard-30c712d6.base44.app/"
   },
   {
     title: "SmartCity IoT",
     description: "IoT-based smart city management system with sensor integration and real-time monitoring.",
     tags: ["IoT", "Smart City", "Sensors"],
-    link: "https://b24bs1555.wixsite.com/msai/smartcity-iot"
+    link: "https://splendid-pika-249aa2.netlify.app/"
   },
   {
     title: "Life Goal Unleashed",
     description: "Life Pattern Analyzer - Personal development tool analyzing life patterns and goal achievement strategies.",
     tags: ["Analytics", "Personal Dev", "Patterns"],
-    link: "https://b24bs1555.wixsite.com/msai/life-goal-unleashed"
+    link: "https://lifexly.netlify.app/"
   },
   {
     title: "SocialStarX",
     description: "Social media analytics platform with engagement tracking and performance insights.",
     tags: ["Social Media", "Analytics", "Engagement"],
-    link: "https://b24bs1555.wixsite.com/msai/socialstarx"
+    link: "https://dynamic-flan-4984b0.netlify.app/#l"
   },
   {
     title: "ReactNative",
     description: "Cross-platform mobile application built with React Native featuring modern UI and smooth performance.",
     tags: ["React Native", "Mobile", "Cross-platform"],
-    link: "https://b24bs1555.wixsite.com/msai/reactnative"
+    link: "https://reactnativeproject.lovable.app/"
   },
   {
     title: "X Analytics",
     description: "Market analytics platform with real-time data visualization and trend analysis capabilities.",
     tags: ["Analytics", "Market Data", "Visualization"],
-    link: "https://b24bs1555.wixsite.com/msai/x-analytics"
+    link: "https://market-analytics.netlify.app/"
   },
   {
     title: "CredWise",
     description: "Credit management and financial advisory platform with personalized recommendations and insights.",
     tags: ["Fintech", "Credit", "Advisory"],
-    link: "https://b24bs1555.wixsite.com/msai/credwise"
+    link: "https://cardx.lovable.app/"
   },
   {
     title: "FintechAnalytics",
     description: "Comprehensive fintech analytics dashboard with transaction monitoring and financial insights.",
     tags: ["Fintech", "Analytics", "Dashboard"],
-    link: "https://b24bs1555.wixsite.com/msai/fintech-analytics"
+    link: "https://fintechanalytics.vercel.app/"
   },
   {
     title: "SalesAnalytics",
     description: "Sales performance analytics platform with KPI tracking and revenue optimization insights.",
     tags: ["Sales", "Analytics", "KPI"],
-    link: "https://b24bs1555.wixsite.com/msai/sales-analytics"
+    link: "https://stately-starship-297297.netlify.app/"
   },
   {
     title: "msGPT",
     description: "Custom GPT implementation with advanced natural language processing and conversational AI capabilities.",
     tags: ["AI/ML", "NLP", "Conversational AI"],
-    link: "https://b24bs1555.wixsite.com/msai/msgpt"
+    link: "https://gptbymayank.lovable.app/"
   }
 ];
 

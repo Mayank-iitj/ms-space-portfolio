@@ -17,12 +17,12 @@ const SOCIAL_LINKS = [
   {
     alt: 'LinkedIn',
     src: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/f4cf68ac-4224-41d1-b72e-20703ea573d6-space-portolio-vercel-app/assets/svgs/instagram-1.svg?',
-    href: 'https://linkedin.com',
+    href: 'https://www.linkedin.com/in/mayankiitj',
   },
   {
     alt: 'GitHub',
     src: 'https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/f4cf68ac-4224-41d1-b72e-20703ea573d6-space-portolio-vercel-app/assets/svgs/discord-3.svg?',
-    href: 'https://github.com',
+    href: 'https://github.com/Mayank-iitj',
   },
 ];
 

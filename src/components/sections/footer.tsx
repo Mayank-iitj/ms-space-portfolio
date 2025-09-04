@@ -9,27 +9,23 @@ const Footer = () => {
           
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start mb-6 md:mb-0">
             <div className="font-bold text-[16px]">Community</div>
-            <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
-              <FaYoutube />
-              <span className="text-[15px] ml-[6px]">Youtube</span>
-            </a>
-            <a href="https://github.com/mayank-sharma" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
+            <a href="https://github.com/Mayank-iitj" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
               <FaGithub />
               <span className="text-[15px] ml-[6px]">Github</span>
             </a>
-            <a href="https://discord.com" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
+            <a href="#" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
               <FaDiscord />
-              <span className="text-[15px] ml-[6px]">Discord</span>
+              <span className="text-[15px] ml-[6px]">Discord: mayyankks</span>
             </a>
           </div>
 
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start mb-6 md:mb-0">
             <div className="font-bold text-[16px]">Social Media</div>
-            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
+            <a href="https://www.instagram.com/mayyanks/?__pwa=1" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
               <FaInstagram />
               <span className="text-[15px] ml-[6px]">Instagram</span>
             </a>
-            <a href="https://linkedin.com/in/mayank-sharma" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
+            <a href="https://www.linkedin.com/in/mayankiitj" target="_blank" rel="noopener noreferrer" className="flex flex-row items-center my-[15px] text-gray-200 cursor-pointer">
               <FaLinkedin />
               <span className="text-[15px] ml-[6px]">LinkedIn</span>
             </a>
