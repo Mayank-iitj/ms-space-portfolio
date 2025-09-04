@@ -61,13 +61,13 @@ const projectData = [
     title: "Face Mask Detection",
     description: "Deep learning model for real-time face mask detection with high accuracy and performance optimization.",
     tags: ["Deep Learning", "Computer Vision", "Detection"],
-    link: "https://b24bs1555.wixsite.com/msai/face-mask-detection"
+    link: "https://msfacify.netlify.app/"
   },
   {
     title: "Customer Churn Prediction",
     description: "Machine learning model predicting customer churn with advanced analytics and actionable insights.",
     tags: ["ML", "Prediction", "Analytics"],
-    link: "https://b24bs1555.wixsite.com/msai/customer-churn-prediction"
+    link: "https://xlhyimcjxn0d.manus.space/"
   },
   {
     title: "Music Genre Classification",
