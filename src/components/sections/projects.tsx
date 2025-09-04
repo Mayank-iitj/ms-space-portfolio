@@ -79,13 +79,13 @@ const projectData = [
     title: "E-Commerce Recommendation",
     description: "Product recommendation system using collaborative filtering and content-based algorithms.",
     tags: ["Recommendation", "E-commerce", "ML"],
-    link: "https://ss-analysis-ms.netlify.app/"
+    link: "https://app--clay-shop-1f50815c.base44.app/"
   },
   {
     title: "Sentiment Analysis",
     description: "Social media sentiment analysis tool with real-time processing and visualization capabilities.",
     tags: ["NLP", "Sentiment", "Social Media"],
-    link: "https://msfacify.netlify.app/"
+    link: "https://ss-analysis-ms.netlify.app/"
   },
   {
     title: "Spam Mail Analyzer",
